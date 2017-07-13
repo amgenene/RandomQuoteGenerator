@@ -1,0 +1,13 @@
+header{
+  font-family: Monospace;
+  font-size: 30px;
+  color: darkgreen;
+}
+body{
+  
+  background-color: orange;
+}
+#theWell{
+ position: relative;
+}
+
